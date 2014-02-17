@@ -21,4 +21,8 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Part 1 - Changes Made to Gutenberg Html Files
+=================
+Removed div tag for image.
+
 

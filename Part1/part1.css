@@ -1,0 +1,84 @@
+/*
+   Copyright 2014 Abram Hindle, Thomas Polasek
+
+   Licensed under the Apache License, Version 2.0 (the "License");
+   you may not use this file except in compliance with the License.
+   You may obtain a copy of the License at
+
+       http://www.apache.org/licenses/LICENSE-2.0
+
+   Unless required by applicable law or agreed to in writing, software
+   distributed under the License is distributed on an "AS IS" BASIS,
+   WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+   See the License for the specific language governing permissions and
+   limitations under the License.
+*/
+/* body and main tags */
+html {
+}
+
+body {
+  background: #EEEEEE;
+  text-align: center;
+}
+
+p {
+  font-family:"Big Caslon", "Times New Roman", serif;
+  font-size: 125%;
+  color: #282828;
+  margin-left: 50px;
+  margin-right: 75px;
+  text-align: justify,center;
+}
+
+table, td, th{
+    margin: auto auto;
+    padding-left: 25px
+}
+
+a {
+    font-size: 125%;
+    text-decoration: none;
+    color:black;
+}
+
+a:hover {
+  outline-style: outset;
+  outline-color: #000000;
+}
+
+a:hover {
+    color:#CCCCCC;
+    text-decoration: bold;
+}
+
+/* Theme header tags with css */
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+  text-decoration: underline;
+}
+
+hr  {
+	text-align: center;
+}
+
+/* Theme images and image captions with CSS */
+img {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img:hover {
+    border: solid 5px #000000;
+}
+
+/* Various css stylings */
+pre {
+  text-align: center;
+
+}
+
+.toc {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
