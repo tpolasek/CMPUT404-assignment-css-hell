@@ -1,0 +1,20 @@
+body {
+    background: #FF00FF;
+    color: #00FFFF;
+    font-family: "Comic Sans MS";
+}
+
+img {
+	width: 10%;
+	border-width: 10px;
+	border-color: #FF0000;
+}
+
+.seperator {
+	width: 50%; height: 3px; background: #00FF00; 
+}
+
+img:hover
+{
+width: 50%;
+}

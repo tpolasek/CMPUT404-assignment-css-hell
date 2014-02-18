@@ -1,0 +1,13 @@
+body {
+    background: #000000;
+    color: #00FF00;
+    font-family: monospace;
+}
+
+img {
+	width: 10%;
+}
+
+.seperator {
+	width: 50%; height: 3px; background: #00FF00; 
+}
